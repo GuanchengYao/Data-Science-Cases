@@ -1,2 +1,2 @@
-# DS501
-WPI DS501 Introduction to Data Science, Fall 2018 class Assignments. The function frameworks and test cases are designed by Professor Xiangnan Kong.
+# Introduction to Data Science
+Application of Machine Learning on Some Classical Algorithms. The function frameworks and test cases are designed by Professor Xiangnan Kong.
